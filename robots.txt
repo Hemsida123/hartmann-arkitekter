@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hartmann-arkitekter.carlzzon121.chatgpt.site/sitemap.xml
